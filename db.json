@@ -553,15 +553,7 @@
   ],
 
   "portfolioSnapshots":[
-    
-      {
-        "date": "2025-05-12",
-        "totalValue": 15000,
-        "totalInvested": 12000,
-        "totalProfit": 3000,
-        "change24hValue": 100,
-        "change24hPercent": 0.67
-      },
+  
       {
         "date": "2025-05-11",
         "totalValue": 14500,
