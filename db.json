@@ -717,5 +717,18 @@
     }
   ],
 
-  "watchlist": []
+  "watchlist": [
+    {
+      "id": "bitcoin"
+    },
+    {
+      "id": "silencio"
+    },
+    {
+      "id": "pi-nettwork"
+    },
+    {
+      "id": "ripple"
+    }
+  ]
 }
